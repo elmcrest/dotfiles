@@ -1,0 +1,10 @@
+[user]
+    name = Marius Räsener
+    email = 931919+elmcrest@users.noreply.github.com
+[pull]
+    rebase = true
+[alias]
+    co = checkout
+    br = branch
+    ci = commit
+    st = status
